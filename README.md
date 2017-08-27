@@ -1,7 +1,7 @@
 # Phrases-of-the-day
 First application with React Native
 
-![Phrases-of-the-day](/img/telaStart.jpg)
+(/img/telaStart.jpg)
 ![Phrases-of-the-day](/img/telaFrase.jpg)
 
 ## Setup
